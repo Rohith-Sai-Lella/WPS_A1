@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+    font-size:30px;
+    color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#image_logo{
+    padding-left:200px;
+    width: 9%;
+    height: 12%;
+    margin-right: 0;
+    padding-right: 180px;
+    position:absolute;
+}
+h4{
+    display: inline;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    text-align: center;
+}
+.c1 li{
+    float: left;
+}
+.c2 li{
+    float: right;
+}
+ a{
+    display: block;
+    color: rgb(27, 26, 26);
+    padding: 8px 16px;
+    text-decoration: black;
+}
+li a:hover{
+    background-color: bisque;
+    color: white;
+}
+.c3{
+    background-image: url("./download1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    height: 600px;
+}
+#search_bar{
+    font-size: 15px;
+    height: 60px;
+    width: 500px;
+    border:0px;
+}
+.s{
+    font-size: 15px;
+    height: 60px;
+    width: 70px;
+    border:1px;
+    color: blue;
+    border-left: none;
+    background-color: white;
+    margin: 0%;
+    
+}
